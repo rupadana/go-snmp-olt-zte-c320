@@ -1,7 +1,7 @@
 version: '3'
 
 vars:
-  EXE: sumitroajiprabowo/go-snmp-olt-zte-c320{{exeExt}}
+  EXE: homenetresearch/go-snmp-olt-zte-c320{{exeExt}}
 
 tasks:
   default:
